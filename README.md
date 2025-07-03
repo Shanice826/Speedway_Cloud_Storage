@@ -9,10 +9,19 @@ Simply hover the mouse over the price cards to have each card zoom in for better
 
 ## Video Demonstration 🖥️
 
-## Tech Stacks 📌
 
+https://github.com/user-attachments/assets/bb1eac22-3f3b-4565-a8f1-31b754e2e2d3
+
+
+## Tech Stacks 📌
+-Tailwindcss
+-NPM/NPX
+-Nodejs
+-Flexbox
+-Grid
 ## What I Learned 🎓
 
+-TailwindCSS
 ## About Me 👩🏾‍💻
 
 Hi, I’m Shanice Thompson—a passionate frontend developer dedicated to building beautiful, accessible, and user-first websites. I care deeply about creating inclusive web experiences and am actively growing in JavaScript, React, and modern frontend tools.
