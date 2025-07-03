@@ -4,7 +4,7 @@ A fictional business that provides cloud-hosting services for those interested i
 ## How To Use The Product Page 💰
 Simply hover the mouse over the price cards to have each card zoom in for better readability. This allows the all the text and button inside each price card to expand to capture the attention of potential subscribers but, allow people to read large enough text before choosing a plan.
 
-## Snapshot 
+## Snapshot 📷
 ![image](https://github.com/user-attachments/assets/4bf0d138-b0cf-4df6-9807-dd2b4694230e)
 
 ## Video Demonstration 🖥️
@@ -15,10 +15,15 @@ https://github.com/user-attachments/assets/bb1eac22-3f3b-4565-a8f1-31b754e2e2d3
 
 ## Tech Stacks 📌
 -Tailwindcss
+
 -NPM/NPX
+
 -Nodejs
+
 -Flexbox
+
 -Grid
+
 ## What I Learned 🎓
 
 -TailwindCSS
